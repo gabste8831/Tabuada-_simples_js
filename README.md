@@ -1,5 +1,4 @@
-![image](https://github.com/user-attachments/assets/58166cac-70d8-4f6d-afdd-bad6d3338f4e)# Tabuada Interativa
-
+## Descrição do Projeto
 Este projeto consiste em uma aplicação web que permite ao usuário gerar uma tabuada interativa com base em um número escolhido e um multiplicador máximo definido.
 
 ## 🚀 Funcionalidades
